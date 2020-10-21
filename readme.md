@@ -1,15 +1,9 @@
 # Bryce Soghigian
 
-<h2 align="center">About me</h2>
 
-
-
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at </h2>
 
 <p align="center">
-  <a href="https://brycesoghigian.com/">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
-  </a>
 
   <a href="https://www.linkedin.com/in/bsoghigian/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
@@ -36,9 +30,9 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-
-### Other Languages I know
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
