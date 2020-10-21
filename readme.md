@@ -21,8 +21,12 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
+<div>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryce-Soghigian&langs_count=9&theme=tokyonight&layout=compact" alt="Bryces :: Top Langs" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bryce-Soghigian&show_icons=true&theme=synthwave" alt="Bryce :: Profile Stats" /></p>
+ </div>
+
 
 <h2 align="center">You can reach me at </h2>
 
@@ -36,20 +40,14 @@
 
 
 
-<h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Bryce-Soghigian}/count.svg" alt="Bryce :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryce-Soghigian&langs_count=9&theme=tokyonight&layout=compact" alt="Bryces :: Top Langs" /></p>
 
 
 
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 ---
