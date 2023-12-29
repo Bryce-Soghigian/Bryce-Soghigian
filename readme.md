@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I am currently working @AKS and working on growing [Karpenter](https://github.com/Azure/karpenter) into the most performant and cost efficent autoscaler. 
+- 🔭 I’m currently working at MSFT Working on [Karpenter](https://github.com/Azure/karpenter)
 - 📫 Reach out to me: [LinkedIn](https://www.linkedin.com/in/bsoghigian/)
 
 ---
